@@ -15,6 +15,7 @@ Users start with a small idea or scene — just a few lines of imagination — a
 This not only showcases the power of **generative AI** and **prompt engineering**, but also makes it a **powerful creative companion for aspiring young writers**, helping them bring stories to life with just a spark of an idea.
 
 ---
+![App Preview](image.png)
 
 ## ✨ Features
 
