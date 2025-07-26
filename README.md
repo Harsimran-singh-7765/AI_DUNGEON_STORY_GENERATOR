@@ -74,8 +74,7 @@ This not only showcases the power of **generative AI** and **prompt engineering*
 
 **Harsimran Singh**  
 AI/ML + Full-Stack Developer  
-✉️ [your.email@example.com]  
-🔗 [GitHub / Portfolio / LinkedIn link]
+
 
 ---
 
